@@ -1,0 +1,24 @@
+{
+  "name": "gff3-to-sbol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udp/gff3-to-sbol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udp/gff3-to-sbol/issues"
+  },
+  "homepage": "https://github.com/udp/gff3-to-sbol#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "mz": "^2.6.0",
+    "sboljs": "git+https://github.com/SynBioDex/sboljs.git"
+  }
+}
